@@ -1,0 +1,5 @@
+org.springframework.test.context.ContextCustomizerFactory = com.unhcrgpc.\
+    masterdatahub.config.TestContainersSpringContextCustomizerFactory,com.\
+    unhcrgpc.masterdatahub.config.\
+    SqlTestContainersSpringContextCustomizerFactory,com.unhcrgpc.masterdatahub.\
+    config.KafkaTestContainersSpringContextCustomizerFactory
